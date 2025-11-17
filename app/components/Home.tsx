@@ -40,7 +40,7 @@ export default function Home() {
         >
           <div className="relative w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden ring-4 ring-gray-700 ring-offset-4 ring-offset-black shadow-2xl">
             <Image
-              src="/profile_photo.jpg"
+              src="https://github.com/SudarshanC00/Sudarshan-Portfolio/blob/main/public/profile_photo.jpg"
               alt="Sudarshan Chikkathimmaiah"
               fill
               className="object-cover"
