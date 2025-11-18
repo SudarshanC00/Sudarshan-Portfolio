@@ -214,7 +214,7 @@ export default function Contact() {
               
               <div className="mt-6 pt-6 border-t border-gray-700">
                 <p className="text-center text-gray-400 text-sm">
-                  Prefer email? <a href="mailto:sudarshan.chikkathimmaiah@sjsu.edu" className="text-gray-300 hover:text-white transition-colors">sudarshan.chikkathimmaiah@sjsu.edu</a>
+                  Prefer email? <a href="mailto:sudarshan.c1326@gmail.com" className="text-gray-300 hover:text-white transition-colors">sudarshan.chikkathimmaiah@sjsu.edu</a>
                 </p>
               </div>
             </div>
