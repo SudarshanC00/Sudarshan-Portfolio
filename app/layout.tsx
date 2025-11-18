@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   authors: [{ name: "Sudarshan Chikkathimmaiah" }],
   icons: {
     icon: [
-      { url: '/icon.svg?v=2', type: 'image/svg+xml' },
+      { url: 'https://sudarshanc00.github.io/Sudarshan-Portfolio/icon.svg?v=2', type: 'image/svg+xml' },
     ],
   },
 };
