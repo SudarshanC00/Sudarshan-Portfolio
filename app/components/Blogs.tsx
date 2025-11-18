@@ -22,7 +22,7 @@ const blogs: Blog[] = [
     date: '2024-01-15',
     readTime: '8 min read',
     category: 'AI/ML',
-    link: 'https://example.com/blog/rag-systems',
+    link: 'https://medium.com/@sudarshan.c1326/understanding-rag-systems-a-comprehensive-guide-b9f7f7d3b943',
     tags: ['RAG', 'LLM', 'NLP', 'AI'],
   },
   {
