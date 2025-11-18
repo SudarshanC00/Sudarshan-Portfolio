@@ -6,21 +6,21 @@ import { Mail, Linkedin, Github, Download, Send } from 'lucide-react';
 const socialLinks = [
   {
     name: 'LinkedIn',
-    url: 'https://linkedin.com/in/sudarshan-chikkathimmaiah',
+    url: 'https://www.linkedin.com/in/sudarshanc00/',
     icon: Linkedin,
     color: 'text-blue-600 dark:text-blue-400',
     hoverColor: 'hover:bg-blue-50 dark:hover:bg-blue-900/20',
   },
   {
     name: 'GitHub',
-    url: 'https://github.com/sudarshan',
+    url: 'https://github.com/SudarshanC00',
     icon: Github,
     color: 'text-gray-900 dark:text-gray-100',
     hoverColor: 'hover:bg-gray-100 dark:hover:bg-gray-800',
   },
   {
     name: 'Email',
-    url: 'mailto:sudarshan.chikkathimmaiah@sjsu.edu',
+    url: 'mailto:sudarshan.c1326@gmail.com',
     icon: Mail,
     color: 'text-red-600 dark:text-red-400',
     hoverColor: 'hover:bg-red-50 dark:hover:bg-red-900/20',
